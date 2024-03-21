@@ -1,0 +1,2 @@
+123;parol;200;100;30;sabah akşam
+12;xanax;500;400;50;günde bir defa
